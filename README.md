@@ -1,4 +1,4 @@
-# Mobile-App-utomation-Basics
+# Mobile-App-Automation-Basics
 Mobile-App-Automation-Basics
 
 Hello Everyone,

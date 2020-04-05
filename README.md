@@ -9,7 +9,7 @@ Will soon dump the steps to folow this repository.
 
 1. Created Empty Repo, and Created Readme.md file.
 2. Added CODEOWNERS to this Repository named as: @sgamresh @bjsadmin
-3. Given Read access to this Repository.
+3. Given Write access to this Repository.
 
 
 Regards,

@@ -1,16 +1,21 @@
 # Mobile-App-Automation-Basics
-Mobile-App-Automation-Basics
-
 Hello Everyone,
 
-Welcome to Bangalore Job Seekers open source projects.
+Welcome to Bangalore Job Seekers open source projects. Please Register at https://bangalorejobseekers.com/git to get complete Access.
 
 Will soon dump the steps to folow this repository.
 
-1. Created Empty Repo, and Created Readme.md file.
-2. Added CODEOWNERS to this Repository named as: @sgamresh @bjsadmin
-3. Given Write access to this Repository.
+Step 1: Set up
 
+Step 2: Pre Requisites:
+
+Step 3: Framework Details:
+
+Step 4: Code Set up in your System :
+
+Step 5: Rules to be followed:
 
 Regards,
-Bangalore Job Seekers Admin
+Amresh Pradhan 
+(9439308689) 
+admin@bangalorejobseekers.com
